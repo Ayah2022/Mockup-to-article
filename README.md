@@ -3,5 +3,4 @@
 ## Description: 
 Converting a mockup of a blog article into a real website.
  
-## To see it click the link below :
-https://ayah2022.github.io/Mockup-to-article/
+## To see it clone the repository and run the index.html file in your browser

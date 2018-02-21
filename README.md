@@ -1,2 +1,7 @@
 # Mockup-to-article
-Udacity_1st_project
+ 
+## Description: 
+Converting a mockup of a blog article into a real website.
+ 
+## To see it click the link below :
+https://ayah2022.github.io/Mockup-to-article/

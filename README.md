@@ -1,5 +1,5 @@
 # Mockup-to-article
- 
+ ![alt text](first.png)  
 ## Description: 
 Converting a mockup of a blog article into a real website.
  
